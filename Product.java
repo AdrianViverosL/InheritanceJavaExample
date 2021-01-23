@@ -11,7 +11,6 @@ class Liquid extends Product{
 		name = pName;
 		price = pPrice;
 		totalAvailable = pTotalAvailable;
-		namesArr.add(pName);
 	}
 }
 
